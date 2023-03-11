@@ -1,0 +1,48 @@
+body{
+    background-size: 130%;
+    background-repeat: no-repeat;
+    background-image: url("http://4kwallpapers.com/images/walls/thumbs_2t/8324.png");
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  button[type="submit"] {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #eee;
+    font-size: 16px;
+  }
+  
+  button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  #car-info {
+    margin-top: 50px;
+    font-size: 20px;
+  }
+  
+  #logout-btn {
+    margin-top: 30px;
+    background-color: #dc3545;
+    color: #fff;
+    cursor: pointer;
+  }
+  
